@@ -1,0 +1,34 @@
+/*body{
+background-color:green;
+}
+
+div{
+  background-color: green;
+}
+*/
+.Top-Container {
+  background-color: #E4F9F5;
+  width: 200px;
+  height: 200px;
+  /*padding-top: 20px;
+  padding-left: 30px;*/
+  padding: 20px;
+  border:solid 10px;
+  /*margin: 10px;*/
+    }
+
+.Middle-Container{
+  background-color: Red;
+  width: 200px;
+  height: 200px;
+  border: solid 20px;
+  margin-left: 260px;
+}
+
+.Bottom-Container{
+  background-color: Blue;
+  width: 200px;
+  height: 200px;
+  margin-left:500px;
+  border:solid 10px;
+}
