@@ -4,7 +4,7 @@ body {
   font-family: arial, sans-serif;
 }
 
-.h1 {
+h1 {
   color: #66BFBF;
   font-size: 5.625rem;
   /*line-height: 2;*/
@@ -12,14 +12,14 @@ body {
   font-family: "sacramento", cursive;
 
 }
-.h2 {
+h2 {
   color: #66BFBF;
   font-size: 2.5rem;
   font-family: "Monteserrat", sans-serif;
   font-weight: normal;
 
 }
-.h3 {
+h3 {
   color: #11999E;
   font-size: 1.5rem;
   /*text-align: left;*/
@@ -31,6 +31,8 @@ body {
 .Top-Container {
   padding-top: 100px;
   background-color: #E4F9F5;
+
+
 }
 
 .Middle-Container {
@@ -53,8 +55,29 @@ body {
 }
 
 .skill-row{
+  /*width:100px; height:100px;*/
   width:50%;
   margin: 100px auto 100px auto;
   text-align: left;
   line-height: 1.5;
 }
+
+.code-img{
+  width:25%;
+  margin-right:30px;
+  float:left;
+}
+
+.chilli-img{
+  /*margin-top: 50px;
+  /*position:relative;*/
+  width:25%;
+  float:right;
+  /*margin-left: 30px;*/
+}
+/*
+.skill-discription{
+  /*clear:left;
+  clear:both;
+}
+*/
