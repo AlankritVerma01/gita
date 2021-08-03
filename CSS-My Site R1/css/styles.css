@@ -124,8 +124,14 @@ a{
   font-family: "Monteserrat", sans-serif;
   margin: 10px 20px;
   background-color: #11999e;
+  text-decoration: none;
 }
+.copy-right{
+  color:#eaf6f6;
+  font-size: 0.25rem;
+  padding: 20px 0;
 
+}
 .btn {
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
