@@ -69,6 +69,10 @@ hr{
 }
 
 .bottom-cloud{
+  position:relative;
+  bottom:300px;
+  left:50px;
+
   margin:auto;
   /*position: absolute;*/
 }
