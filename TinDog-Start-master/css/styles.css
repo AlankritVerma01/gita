@@ -52,19 +52,29 @@ h1 {
 }
 
 h3 {
+  font-family: "montserrat-bold";
   font-weight: bold;
   font-size: 1.5rem;
 }
 
-.col-lg-4 {
+P{
+color:#8f8f8f;
+}
+
+/* features section */
+#features{
+  padding:7% 15%;
+}
+
+.feature-box{
   text-align: center;
-  margin: 5% auto;
-  /* margin:2% 5%; */
-  padding: 0 10%;
-  /* margin: 0 10px; */
+  padding: 5%;
 }
 
 .myicons {
-
   color: #ef8172;
+}
+
+.myicons:hover{
+  color:#ff4c68;
 }
