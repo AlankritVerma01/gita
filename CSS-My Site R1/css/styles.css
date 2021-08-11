@@ -76,6 +76,10 @@ hr{
   margin:auto;
   /*position: absolute;*/
 }
+.profile-img{
+  width:200px;
+  border-radius: 100%;
+}
 
 .skill-row{
   /*width:100px; height:100px;*/
