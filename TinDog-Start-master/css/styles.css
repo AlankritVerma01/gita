@@ -5,13 +5,15 @@ body {
 #title {
   background-color: #ff4c68;
   color: #fff;
+
+
 }
 
 /*body{
     background-color: #ff4c68;
 }*/
 .container-fluid {
-  padding: 3% 10%;
+  padding: 3% 15% 7%;
 }
 
 h1 {
@@ -59,7 +61,8 @@ h3 {
 .title-image {
   width: 60%;
   transform: rotate(25deg);
-  padding-left: 50px;
+  position:absolute;
+  right:30%;
 }
 
 P {
@@ -68,7 +71,11 @@ P {
 
 /* features section */
 #features {
-  padding: 7% 15%;
+  background-color: "white";
+padding: 7% 15%;
+background-color: #fff;
+position:relative;
+z-index: 1;
 }
 
 .feature-box {
@@ -106,6 +113,21 @@ P {
   width: 12%;
   margin:20px 30px 50px;
 }
+
 .carousel-item{
   padding: 7% 15%;
+}
+
+
+/* Pricing Section */
+.card{
+  text-align:center;
+}
+
+#pricing{
+  padding:100px;
+}
+
+.pricing-column{
+  padding:3% 2%;
 }
