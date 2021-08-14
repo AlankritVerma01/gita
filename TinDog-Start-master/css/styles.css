@@ -4,8 +4,7 @@ body {
 }
 
 #title {
-  background-color: #ff4c68;
-  color: #fff;
+
   text-align: left;
 }
 
@@ -42,6 +41,22 @@ P {
   line-height: 1.5;
 }
 
+.colored-section{
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.white-section{
+  background-color: #fff;
+}
+
+
+
+
+
+
+
+
 /* Navigation Bar */
 .navbar {
   padding: 0 0 4.5rem;
@@ -77,7 +92,6 @@ P {
 /* features section */
 #features {
   padding: 7% 15%;
-  background-color: #fff;
   position: relative;
   z-index: 1;
 }
@@ -139,8 +153,7 @@ P {
 /* footer */
 #cta {
   padding: 7% 15%;
-  background-color: #ff4c68;
-  color: #fff;
+
 }
 
 
