@@ -7,7 +7,7 @@ body {
 <<<<<<< HEAD
   background-color: #ff4c68;
   color: #fff;
-  text-align: left; 
+  text-align: left;
 =======
 
   text-align: left;
@@ -55,12 +55,6 @@ P {
 .white-section{
   background-color: #fff;
 }
-
-
-
-
-
-
 
 
 /* Navigation Bar */
@@ -155,11 +149,9 @@ P {
   padding: 3% 2% 0;
 }
 
-
 /* footer */
 #cta {
   padding: 7% 15%;
-
 }
 
 
