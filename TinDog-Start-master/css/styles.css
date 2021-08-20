@@ -4,14 +4,9 @@ body {
 }
 
 #title {
-<<<<<<< HEAD
   background-color: #ff4c68;
   color: #fff;
   text-align: left;
-=======
-
-  text-align: left;
->>>>>>> fa2e32f3ab4b5d5edacc445267450cb8aab500a9
 }
 
 /*body{
@@ -57,25 +52,7 @@ P {
 }
 
 
-/* Navigation Bar */
-.navbar {
-  padding: 0 0 4.5rem;
-}
 
-.navbar-brand {
-  font-family: "ubuntu";
-  font-size: 2.5rem;
-  font-weight: bold;
-}
-
-.nav-item {
-  padding: 0 18px;
-}
-
-.nav-link {
-  font-size: 1.2rem;
-  font-family: "Montserrat-light";
-}
 
 .download-button {
   margin: 5% 3% 5% 0;
